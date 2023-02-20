@@ -10,7 +10,8 @@
 3. Поместить Python-программу в папку PythonFiles
 4. Запустить PyLauncher2.exe
 
-**Запуск Python-программ происходит из файла main.py в папке PythonFiles**
+Запуск Python-программ происходит из файла **main.py** в папке **PythonFiles**
+Зависимости от модулей должны быть перечислеты в файле **requirements.txt** в папке **PythonFiles**
 
 ### Настройка запуска
 В файле **config.cfg** параметры:
